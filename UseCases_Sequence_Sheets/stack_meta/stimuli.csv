@@ -1,0 +1,14 @@
+,A,B,C,D
+1,,__init__,?stack,
+2,,push,A1,First Element
+3,,push,A1,Second Element
+4,,push,A1,65.5
+5,,peek,A1,
+6,,size,A1,
+7,,push,A1,100
+8,,pop,A1,
+9,,size,A1,
+10,,pop,A1,
+11,,size,A1,
+12,,peek,A1,
+13,,is_empty,A1,

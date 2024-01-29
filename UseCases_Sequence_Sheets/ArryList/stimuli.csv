@@ -1,0 +1,16 @@
+,A,B,C,D,E
+1,,__init__,?ArrayList,
+2,,add,A1,First Element
+3,,add,A1,Second Element
+4,,add,A1,65.5
+5,,insert,A1,5,Fourth Element
+6,,insert,A1,6,Zero Element
+7,,get,A1,5
+8,,get,A1,0
+9,,get,A1,2
+10,,push,A1,100
+11,,remove,A1,65.5
+12,,remove,A1,Second Element
+13,,remove,A1,sixth Element
+14,,remove,A1,Fourth Element
+15,,size,A1

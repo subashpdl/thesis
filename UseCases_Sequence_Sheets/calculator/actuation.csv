@@ -1,0 +1,16 @@
+Unnamed: 0,A,B,C,D,E,F,G
+1,,__init__,SimpleCalculator?,,,,
+1,10,add,A1,1.0,2.0,3.0,4.0
+2,24,multiply,A1,1.0,2.0,3.0,4.0
+3,5,subtract,A1,10.0,2.0,3.0,
+4,2.0,divide,A1,20.0,2.0,5.0,
+5,20,add,A1,5.0,15.0,,
+6,8,multiply,A1,2.0,4.0,,
+7,5,subtract,A1,20.0,5.0,10.0,
+8,5.0,divide,A1,100.0,2.0,10.0,
+9,3,add,A1,3.0,,,
+10,7,multiply,A1,7.0,,,
+11,25,subtract,A1,50.0,25.0,,
+12,Error: Division by zero,divide,A1,40.0,0.0,,
+13,0.0,divide,A1,0.0,10.0,,
+14,Error: Division by zero,divide,A1,30.0,2.0,0.0,

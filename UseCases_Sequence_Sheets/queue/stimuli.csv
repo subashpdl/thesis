@@ -1,0 +1,14 @@
+,A,B,C,D
+1,,__init__,CustomQueue?,
+2,,enqueue,A,1
+3,,enqueue,A,2
+4,,enqueue,A,3
+5,,enqueue,A,4
+6,,size,A,
+7,,peek,A,
+8,,dequeue,A,
+9,,dequeue,A,
+10,,enqueue,A,5
+11,,size,A,
+12,,is_empty,A,
+13,,dequeue,A,

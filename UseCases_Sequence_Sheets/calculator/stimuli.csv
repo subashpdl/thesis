@@ -1,0 +1,16 @@
+,A,B,C,D,E,F,G
+1,,__init__,SimpleCalculator?,
+1,,add,A1,1,2,3,4
+2,,multiply,A1,1,2,3,4
+3,,subtract,A1,10,2,3,
+4,,divide,A1,20,2,5,
+5,,add,A1,5,15,,
+6,,multiply,A1,2,4,,
+7,,subtract,A1,20,5,10
+8,,divide,A1,100,2,10
+9,,add,A1,3,,
+10,,multiply,A1,7,,
+11,,subtract,A1,50,25,,
+12,,divide,A1,40,0,
+13,,divide,A1,0,10,
+14,,divide,A1,30,2,0

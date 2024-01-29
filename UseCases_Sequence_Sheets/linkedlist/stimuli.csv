@@ -1,0 +1,17 @@
+,A,B,C,D
+1,,__init__,?LinkedList,
+2,,insert_at_beginning,A,1
+3,,insert_at_beginning,A,two
+4,,insert_at_end,A,3
+5,,insert_at_end,A,4
+6,,insert_at_end,A,five
+7,,insert_at_beginning,A,six
+8,,search,A,1
+9,,search,A,two
+10,,search,A,8
+11,,search,A,five
+12,,delete_node,A,1
+13,,delete_node,A,19
+14,,delete_node,A,five
+15,,search,A,five
+16,,search,A,1
